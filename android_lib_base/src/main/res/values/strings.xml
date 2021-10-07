@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">设置</string>
+    <string name="action_add">添加</string>
+    <string name="action_about">关于</string>
+    <string name="action_delete">删除</string>
+    <string name="action_share">分享</string>
+    <string name="action_add_alarm">提醒我</string>
+
+    <string name="night_mode">夜间模式</string>
+    <string name="pref_night_summary">开/关夜间模式</string>
+    <string name="fingerprint">指纹识别</string>
+    <string name="fingerprint_summary">开/关指纹识别</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="translucent">#00000000</color>
+    <color name="gray">#99999999</color>
+    <color name="red">#FF0000</color>
+    <color name="yellow">#FDC200</color>
+    <color name="my_blue">#99CCFF</color>
+
+    <color name="track_off">#e6e6e6</color>
+    <color name="track_on">#00CCFF</color>
+    <color name="track_on2">#99CCFF</color>
+    <color name="add">#99CCFF</color>
+    <color name="btn">#99CCFF</color>
+
+    <color name="MiColorPrimary">#F7F7F7</color>
+    <color name="MiColorPrimaryDark">#F7F7F7</color>
+    <color name="MiSearch">#969696</color>
+    <color name="MiSelected">#EBEBEB</color>
+
+    <color name="tab_selected">#313131</color>
+    <color name="tab_unselected">#949494</color>
+
+</resources>
